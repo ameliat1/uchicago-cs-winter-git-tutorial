@@ -1,1 +1,2 @@
-Hello, world!
+Hello World!
+Git is prett cool
